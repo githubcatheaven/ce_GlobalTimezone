@@ -1,6 +1,7 @@
 # 🌍 Multi City Timezone Clock - Chrome Extension
 
 Release on the Chrome Extension Store
+
 https://chromewebstore.google.com/detail/multi-city-timezone-clock/gcnacfafikohghakddbifpkkaiooaafh
 
 A powerful Chrome extension that displays multiple city timezones simultaneously, allowing users to track time across different global locations with a clean, intuitive interface.
